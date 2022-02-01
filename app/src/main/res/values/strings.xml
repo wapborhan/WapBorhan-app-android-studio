@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WapBorhan</string>
+    <string name="adUnit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="retry">Retry</string>
+    <string name="title">WapBorhan \nPersonal Portfolio…</string>
+    <string name="nav_head">Navigation header</string>
+    <string name="fb">Facebook</string>
+    <string name="twt">Twitter</string>
+    <string name="ig">Github</string>
+    <string name="linkdin">LinkedIn</string>
+    <string name="recom">Message Me</string>
+    <string name="amzn">WhatsApp</string>
+    <string name="flpkrt">Telegram</string>
+    <string name="emus">Email Me</string>
+    <string name="conus">Contact Me</string>
+    <string name="rfrsh">Refresh</string>
+    <string name="share">share</string>
+</resources>
